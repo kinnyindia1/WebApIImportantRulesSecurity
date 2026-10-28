@@ -1,0 +1,6 @@
+@WebApIImportantRulesSecurity_HostAddress = http://localhost:5130
+
+GET {{WebApIImportantRulesSecurity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
